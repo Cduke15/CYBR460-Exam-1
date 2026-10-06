@@ -8,7 +8,7 @@ Task 2: Same as 1, you run python3 task2.py. It will run through, encrypt a ciph
 
 Task 3: Running python3 task3.py will prompt it to run and ultimately force the byte into the plaintext block, scrambling Odin_Allfather_ (preceding block) but leaves Fenrir_the_wolf_ (targeted block) unscathed. Essentially it over-rules the block after.
 
-Task 4:
+Task 4: Run python3 task4.py and it runs through each of the 5 tests, accepting the first two, and denying the last three with each being a unique trial for it. 
 
 Task 5:
 
