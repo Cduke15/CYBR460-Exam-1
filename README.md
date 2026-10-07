@@ -16,4 +16,4 @@ Task 4: Run python3 task4.py and it runs through each of the 5 tests, accepting 
 
 Task 5: Run python3 task5.py which has the program run through, encrypting a plaintext for testing. It runs through two tests: One where the file is not tampered and the other, where it is. The first will allow it to work, the second catches it and it fails.
 
-Task 6:
+Task 6: Run python3 task6.py which runs the program. It runs through 4 tests, testing a valid message, a tampered message, a replay, and an out of order message. It should accept the first and deny the following three!
